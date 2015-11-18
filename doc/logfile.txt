@@ -1,0 +1,46 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_60\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Stephen\Downloads\gridworld(1).jar;I:\unit3DecisionsLoops\GameOfLifeLab
+-d
+I:\unit3DecisionsLoops\GameOfLifeLab\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+I:\unit3DecisionsLoops\GameOfLifeLab\GameOfLife.java
+<---- end of javadoc command ---->
+Loading source file I:\unit3DecisionsLoops\GameOfLifeLab\GameOfLife.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_60
+Building tree for all the packages and classes...
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\GameOfLife.html...
+I:\unit3DecisionsLoops\GameOfLifeLab\GameOfLife.java:30: warning - @post is an unknown tag.
+I:\unit3DecisionsLoops\GameOfLifeLab\GameOfLife.java:100: warning - @pre is an unknown tag.
+I:\unit3DecisionsLoops\GameOfLifeLab\GameOfLife.java:100: warning - @post is an unknown tag.
+I:\unit3DecisionsLoops\GameOfLifeLab\GameOfLife.java:142: warning - @pre is an unknown tag.
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\package-frame.html...
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\package-summary.html...
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\allclasses-frame.html...
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\allclasses-noframe.html...
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\index.html...
+Generating I:\unit3DecisionsLoops\GameOfLifeLab\doc\stylesheet.css...
+4 warnings
