@@ -9,7 +9,7 @@ import info.gridworld.grid.Location;
  * Game of Life starter code. Demonstrates how to create and populate the game using the GridWorld framework.
  * Also demonstrates how to provide accessor methods to make the class testable by unit tests.
  * 
- * @author @gcschmit
+ * @author Stephen Fan
  * @version 18 July 2014
  */
 public class GameOfLife
